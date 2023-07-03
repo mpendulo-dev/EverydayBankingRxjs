@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --brownish: rgb(61, 6, 6);
+  --gold: rgba(96, 96, 8, 0.54);
+}
